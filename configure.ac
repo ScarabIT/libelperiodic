@@ -4,7 +4,7 @@ AM_INIT_AUTOMAKE
 AM_MAINTAINER_MODE([disable])
 AM_PATH_PYTHON([2.7],, [:])
 
-LT_INIT
+LT_INIT([disable-shared])
 
 AC_PROG_CC
 AC_PROG_RANLIB
