@@ -23,3 +23,4 @@ src/libelperiodic.la
 src/libelperiodic_la-periodic.lo
 src/libelperiodic_la-prdic_math.lo
 src/testskew
+.deps
