@@ -24,3 +24,15 @@ src/libelperiodic_la-periodic.lo
 src/libelperiodic_la-prdic_math.lo
 src/testskew
 .deps
+/INSTALL
+/Makefile.in
+/aclocal.m4
+/compile
+/config.guess
+/config.sub
+/configure
+/depcomp
+/install-sh
+/ltmain.sh
+/missing
+/src/Makefile.in
